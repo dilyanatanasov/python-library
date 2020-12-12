@@ -1,0 +1,4 @@
+dido177 Dilyan Atanasov dido@gmail.com 1234 admin
+snejka Snejana Dosinova sneji@gmail.com 123 librarian
+mitko Mitko Petrov mitko@gmail.com 5678123 reader
+maria Maria Ivanova maria@gmail.com 2341 reader
